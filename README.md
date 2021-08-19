@@ -1,2 +1,4 @@
 # Formul
-Formulário HTML/CSS
+Pequeno Formulário desenvolvido em HTML/CSS
+
+OBS: Exemplo da rafaballerini
